@@ -1,1 +1,1 @@
-# https-novixa-app.lovable.app
+ https://novixa-app.lovable.app
